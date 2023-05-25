@@ -27,11 +27,11 @@ const Home = () => {
         <Loader />
       ) : (
         <Fragment>
-          <MetaData title="Eco Market" />
+          <MetaData title="Book Mart" />
 
           <div className="banner">
-            <p>Welcome to Eco Market</p>
-            <h1>FIND AMAZING PRODUCTS BELOW</h1>
+            <p>Welcome to Book Mart</p>
+            <h1>FIND AMAZING BOOKS BELOW</h1>
 
             <a href="#container">
               <button>

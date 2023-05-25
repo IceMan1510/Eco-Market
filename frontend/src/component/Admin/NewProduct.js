@@ -28,13 +28,13 @@ const NewProduct = ({ history }) => {
   const [imagesPreview, setImagesPreview] = useState([]);
 
   const categories = [
-    "Packaged Food",
-    "Dairy, Bread & Eggs",
-    "Tea & Coffee",
-    "Home Needs",
-    "Cleaning Essentials",
-    "Bath & Body",
-    "Hygiene & Grooming",
+    "Historical Fiction",
+    "Non-fiction",
+    "Fiction",
+    "Romance",
+    "History",
+    "Horror",
+    "Poetry",
     "Others"
   ];
 

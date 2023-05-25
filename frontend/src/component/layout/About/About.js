@@ -12,10 +12,10 @@ const About = () => {
 
         <div>
           <div>
-                        <Typography>Eco Market</Typography>
+                        <Typography>Book Mart</Typography>
             
             <span>
-            Made with ❤️ by Nandini, Ashitosh and Ankit
+            Made with ❤️ by Ashitosh
             </span>
           </div>
           

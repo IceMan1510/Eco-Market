@@ -11,14 +11,14 @@ import Typography from "@material-ui/core/Typography";
 import MetaData from "../layout/MetaData";
 
 const categories = [
-  "Packaged Food",
-    "Dairy, Bread & Eggs",
-    "Tea & Coffee",
-    "Home Needs",
-    "Cleaning Essentials",
-    "Bath & Body",
-    "Hygiene & Grooming",
-    "Others"
+  "Historical Fiction",
+  "Non-fiction",
+  "Fiction",
+  "Romance",
+  "History",
+  "Horror",
+  "Poetry",
+  "Others"
 ];
 
 const Products = ({ match }) => {
